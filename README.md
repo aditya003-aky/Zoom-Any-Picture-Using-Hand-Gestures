@@ -22,7 +22,6 @@ pip install mediapipe==0.8.3.1
 To deploy this project run
 
 ```bash
-# Please Subscribe my youtube channel "@problemsolvewithridoy"
 
 import cv2
 from cvzone.HandTrackingModule import HandDetector
@@ -87,15 +86,10 @@ while True:
         break
 ```
 
-## You can follow me
 
-Facebook:- https://www.facebook.com/problemsolvewithridoy/
 
-Linkedin:- https://www.linkedin.com/in/ridoyhossain/
 
-YouTube:- https://www.youtube.com/@problemsolvewithridoy
-
-Gmail:- entridoy2@gmail.com
+Gmail:- adityaraoadkd211@gmail.com
 
 If you have any confusion, please feel free to contact me. Thank you
 
